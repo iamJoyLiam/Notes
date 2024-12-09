@@ -1,1 +1,1 @@
-# PicGo
+# Typora
