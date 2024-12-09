@@ -1,1 +1,1 @@
-# PicGo
+# Xmind
